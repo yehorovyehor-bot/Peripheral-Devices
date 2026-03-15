@@ -1,6 +1,6 @@
 # Замовлення комп'ютера до 60000 грн
 
-Магазин: https://neoservice.ua/
+Магазин: https://rozetka.com.ua/
 
 ## Конфігурація ПК
 
@@ -14,10 +14,11 @@
 | Блок живлення | MSI MAG A650BNL| ![](https://content2.rozetka.com.ua/goods/images/big/543545214.jpg) | https://hard.rozetka.com.ua/ua/msi-mag-a650bnl/p505286339/ |
 | Корпус | Vinga Ghost | ![](https://content1.rozetka.com.ua/goods/images/big/406273517.jpg) | https://hard.rozetka.com.ua/ua/358886166/p358886166/ |
 | Кулер | be quiet! Pure Rock 3 Black | ![](https://content.rozetka.com.ua/goods/images/big/525155505.jpg) | https://hard.rozetka.com.ua/ua/be-quiet-bk039/p490336359/ |
+| Вентилятори | Arctic P12 Pro PST X3 | ![](https://content.rozetka.com.ua/goods/images/big/589087813.jpg) | https://hard.rozetka.com.ua/ua/arctic-acfan00306a/p538590334/ |
 
 ## Загальна вартість
 
-≈ **58 000 – 60 000 грн**
+≈ **59 000 – 60 000 грн**
 
 ## Висновок
 
